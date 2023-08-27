@@ -36,7 +36,7 @@ DESCRIPTION = '''
 <p> 
 Gradio Demo for Scenimefy. 
 To use it, simply upload your image, or click one of the examples to load them.  
-For best outcomes, please pick a natural scene image similar to the examples below. 
+For best outcomes, please pick a natural landscape image similar to the examples below. 
 Kindly note that our model is trained on 256x256 resolution images, using much higher resolutions might affect its performance. 
 Read more at the links below. 
 </p>
