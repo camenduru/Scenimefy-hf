@@ -34,15 +34,15 @@ TITLE = '''
 DESCRIPTION = '''
 <div align=center>
 <p> 
-Gradio Demo for Scenimefy. 
+Gradio Demo for Scenimefy - a model transforming real-life photos into Shinkai-animation-style images. 
 To use it, simply upload your image, or click one of the examples to load them.  
 For best outcomes, please pick a natural landscape image similar to the examples below. 
 Kindly note that our model is trained on 256x256 resolution images, using much higher resolutions might affect its performance. 
-Read more at the links below. 
+Read more in our <a href="https://arxiv.org/abs/2308.12968">paper</a>. 
 </p>
 </div>
 '''
-EXAMPLES = [['0.png'], ['1.jpg'], ['2.png'], ['3.png'], ['4.jpg'], ['5.png'], ['6.jpg'], ['7.png'], ['8.png']]
+EXAMPLES = [['0.jpg'], ['1.png'], ['2.jpg'], ['3.png'], ['4.png'], ['5.png'], ['6.jpg'], ['7.png'], ['8.png']]
 ARTICLE = r"""
 If Scenimefy is helpful, please help to ⭐ the <a href='https://github.com/Yuxinn-J/Scenimefy' target='_blank'>Github Repo</a>. Thank you! 
 🤟 **Citation**
